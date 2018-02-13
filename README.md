@@ -9,4 +9,4 @@ Created by JC Hurst
 
 #### Quandl Code Search - Stock Market Tracker
 
-[Project on Github](https://github.com/jchurst/quander) 
+[Demo](https://quander.glitch.me) 
